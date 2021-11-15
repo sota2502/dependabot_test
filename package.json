@@ -1,0 +1,11 @@
+{
+  "name": "dependabot_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sota2502/dependabot_test.git",
+  "author": "sota2502 <sota2502@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@rails/webpacker": "^5.4.3"
+  }
+}
